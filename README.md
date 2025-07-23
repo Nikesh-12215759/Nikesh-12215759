@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Nikesh Sahoo</h1>
+<!--<h1 align="center">👋 Hi, I'm Nikesh Sahoo</h1>
 <h3 align="center">🚀 A Passionate Developer from India</h3>
 
 <p align="center">
@@ -71,4 +71,76 @@
 
 ---
 
-💡 *“Code. Build. Break. Learn. Repeat.”*
+💡 *“Code. Build. Break. Learn. Repeat.”*-->
+<!-- 
+<p align="center">
+  <img src="https://github.com/nikesh-12215759/nikesh-12215759/blob/main/assets/banner.png" />
+</p> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikesh-12215759/nikesh-12215759/main/assets/dark_mode.svg">
+  <img alt="Nikesh's GitHub Profile README" src="https://raw.githubusercontent.com/nikesh-12215759/nikesh-12215759/main/assets/light_mode.svg">
+</picture>
+<br>
+<hr>
+<br>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+<br>
+<p align="center">
+  <h3>
+    <b>
+      I’m a 4th‑year student pursuing B.Tech in Computer Science 🎓 from Lovely Professional University 🏛.  
+      I’m a passionate developer who loves exploring new technologies 💡 and leveraging them to build real‑world solutions ✨.
+    </b>
+  </h3>
+</p>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+<h2 align="center">Technology Stack <img src="https://github.com/nikesh-12215759/nikesh-12215759/blob/main/assets/laptop.gif" width="50"></h2>
+<p align="center">
+  <div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,react,nodejs,python,java,mysql,postgres,mongodb,tensorflow,sklearn,git,figma,linux,c,cpp,html,css,js&perline=13)](https://skillicons.dev)
+
+  </div>
+</p>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<p align="center">
+  <a href="mailto:nikeshsahoo2004@gmail.com" target="blank">
+    <img align="center" src="https://github.com/nikesh-12215759/nikesh-12215759/blob/main/assets/gmail.gif" alt="Gmail Logo" height="100" width="100" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikeshsahoo/" target="blank">
+    <img align="center" src="https://github.com/nikesh-12215759/nikesh-12215759/blob/main/assets/Linkedin.gif" alt="LinkedIn Logo" height="100" width="100" />
+  </a>
+</p>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+<h1 align="center">Trophies:</h1>
+<p align="center">
+  <img width="1500" height="100" src="https://github-profile-trophy.vercel.app/?username=nikesh-12215759&theme=algolia"/>
+</p>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+<h2 align="center">My GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
+<br>
+<div align="center">
+
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=nikesh-12215759&theme=tokyonight&hide_border=true&border_radius=5&card_width=800&card_height=220" alt="GitHub Streak" /> 
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikesh-12215759&theme=tokyonight) <br>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikesh-12215759&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikesh-12215759&theme=tokyonight)
+
+</div>
+
+<hr>
+
+<!-- About Me section could be optionally added if you want -->
+
