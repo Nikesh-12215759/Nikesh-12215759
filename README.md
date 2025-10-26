@@ -1,3 +1,8 @@
+Hi, I’m Nikesh 👋
+- 🎓 B.Tech in CS, Lovely Professional University
+- 💻 Skills: Python, C++, Java, Web Development, Data Structures
+- 🌱 Currently learning: Cloud Computing, AI
+- 📫 Reach me: nikeshsahoo2004@gmail.com
 <!--<h1 align="center">👋 Hi, I'm Nikesh Sahoo</h1>
 <h3 align="center">🚀 A Passionate Developer from India</h3>
 
